@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Desk Diver]]></title><description><![CDATA[I'll keep it brief.]]></description><link>https://twitter.com/andrewartajos</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Aug 2019 12:31:52 GMT</lastBuildDate><item><title><![CDATA[Domino your debts]]></title><description><![CDATA[Domino Your Debts Today you’re going to regain control of your life. The bottom line is this: if you have a credit card debt, or a personal…]]></description><link>https://twitter.com/andrewartajos/domino-your-debts/</link><guid isPermaLink="false">https://twitter.com/andrewartajos/domino-your-debts/</guid><pubDate>Sat, 03 Aug 2019 23:45:25 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;a href=&quot;https://barefootinvestor.com/barefoot-steps/step-3-domino-debts/&quot;&gt;Domino Your Debts&lt;/a&gt;&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Desk Diver]]></title><description><![CDATA[I'll keep it brief.]]></description><link>https://twitter.com/andrewartajos</link><generator>RSS for Node</generator><lastBuildDate>Sat, 10 Aug 2019 12:42:06 GMT</lastBuildDate><item><title><![CDATA[Resource hints: A no brainer performance tweak to improve your site.]]></title><description><![CDATA[Establish network connections early to improve perceived page speed Browser support for dns-prefetch is slightly different from preconnect…]]></description><link>https://twitter.com/andrewartajos/resource-hints/</link><guid isPermaLink="false">https://twitter.com/andrewartajos/resource-hints/</guid><pubDate>Sat, 10 Aug 2019 10:58:16 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;a href=&quot;https://web.dev/preconnect-and-dns-prefetch/&quot;&gt;Establish network connections early to improve perceived page speed&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Browser support for dns-prefetch is slightly different from preconnect support, so dns-prefetch can serve as a fallback for browsers that don’t support preconnect.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;preconnect&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://example.com&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;dns-prefetch&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://example.com&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;This is the most important thing in this article.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using resource hints in your &lt;code class=&quot;language-text&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt; tag is an easy way to improve a website’s performance page load metric.&lt;/p&gt;
+&lt;h3&gt;How do I know?&lt;/h3&gt;
+&lt;p&gt;I recently worked on performance improvements @ &lt;a href=&quot;https://www.sportsbet.com.au/&quot;&gt;Sportsbet&lt;/a&gt;. It led down a rabbit hole of web performance articles and online course.&lt;/p&gt;
+&lt;h3&gt;Resources&lt;/h3&gt;
+&lt;p&gt;These are the best resources to make your website faster.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Google Web Fundamentals&lt;/strong&gt; - &lt;a href=&quot;https://developers.google.com/web/fundamentals/performance/why-performance-matters/&quot;&gt;Why Performance Matters?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Website Performance Optimization&lt;/strong&gt; - &lt;a href=&quot;https://www.udacity.com/course/website-performance-optimization--ud884&quot;&gt;The Critical Rendering Path&lt;/a&gt; - A Udacity course by Ilya Grigorik and Cameron Pittman. I must say I can sense some tension between these guys. I think it’s because of Ilya’s super tight shirt — Cameron looked distracted.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key CDN&lt;/strong&gt; - &lt;a href=&quot;https://www.keycdn.com/blog/resource-hints&quot;&gt;Resource Hints&lt;/a&gt;. I found this very useful.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 22.596964586846546%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA6klEQVQY042QyW6DQBBE+f/vS5R4ATP7AI7HA2azI71AR8o5LT1VqXo5dNEcMkmPfFWD0IeZds/Unj2Qvhlxbzfi4U5yI80p05b9RpYsh4mrGggfieJYXzjpmqO+cDaKymveqxOfquRsFYdLhW0Dj/vE1C8s45NpWDY/Mw+rsM5PntNLZgrfeHZiF7HBoraju2qn/zDO4IOjaSOxieJjE3D+V33wpHuiu7YU5blE1TVGG8FZhzVWVCuNd17yEAJ935NSIufMsix0XSfk+/aWW+L1+qYIMWCMEZRSOOdkOcYo3lorvXVd+U/9AJKedqfNVLgVAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;search result&quot;
+        title=&quot;search result&quot;
+        src=&quot;/static/bd918bc2e8975f0177e4a172fa01dd06/b9e4f/search-result.png&quot;
+        srcset=&quot;/static/bd918bc2e8975f0177e4a172fa01dd06/cf440/search-result.png 148w,
+/static/bd918bc2e8975f0177e4a172fa01dd06/d2d38/search-result.png 295w,
+/static/bd918bc2e8975f0177e4a172fa01dd06/b9e4f/search-result.png 590w,
+/static/bd918bc2e8975f0177e4a172fa01dd06/f9b6a/search-result.png 885w,
+/static/bd918bc2e8975f0177e4a172fa01dd06/2d849/search-result.png 1180w,
+/static/bd918bc2e8975f0177e4a172fa01dd06/5c484/search-result.png 1186w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;But why bother?&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Because fast websites make money. Lots of it.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Domino your debts]]></title><description><![CDATA[Domino Your Debts Today you’re going to regain control of your life. The bottom line is this: if you have a credit card debt, or a personal…]]></description><link>https://twitter.com/andrewartajos/domino-your-debts/</link><guid isPermaLink="false">https://twitter.com/andrewartajos/domino-your-debts/</guid><pubDate>Sat, 03 Aug 2019 23:45:25 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;a href=&quot;https://barefootinvestor.com/barefoot-steps/step-3-domino-debts/&quot;&gt;Domino Your Debts&lt;/a&gt;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Today you’re going to regain control of your life.&lt;/p&gt;
 &lt;p&gt;The bottom line is this: if you have a credit card debt, or a personal loan, or a car loan, you’re not in control of your financial future.&lt;/p&gt;
